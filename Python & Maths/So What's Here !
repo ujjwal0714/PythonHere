@@ -1,4 +1,4 @@
 I will be storing problems of mathematics getting solved through Python. 
 
 #M0001: calculation of z=y+(y/(x+(y/(x+...)))) till n steps.
-#M0002: recursive calculation of factorial.
+#M0002: recursive and iterative calculation of factorial.
