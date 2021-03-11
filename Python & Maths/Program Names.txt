@@ -1,0 +1,10 @@
+I will be storing problems of mathematics getting solved through Python. 
+
+#M0001: calculation of z=y+(y/(x+(y/(x+...)))) till n steps, recursive and formulated approach.
+#M0002: recursive and iterative calculation of factorial.
+#M0003: recursive and iterative calculation of n^p.
+#M0005: generate n terms of fibonacci series iteratively.
+#M0004: return factors of integer passed.
+#M0006: return value of nCr when n and r are passed to function.
+
+
