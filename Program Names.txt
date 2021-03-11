@@ -1,0 +1,2 @@
+#P0001: return digits of a passed integer
+#P0002: list comprehensions
