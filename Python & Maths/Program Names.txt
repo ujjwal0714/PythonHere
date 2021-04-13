@@ -6,5 +6,7 @@ I will be storing problems of mathematics getting solved through Python.
 #M0005: generate n terms of fibonacci series iteratively.
 #M0004: return factors of integer passed.
 #M0006: return value of nCr when n and r are passed to function.
+#M0007: convert radians to degrees and degrees to radians.
+#M0008: return count of odd & even numbers in passed range (x,y) iteratively and efficiently.
 
 
