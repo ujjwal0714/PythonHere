@@ -8,5 +8,5 @@ I will be storing problems of mathematics getting solved through Python.
 #M0006: return value of nCr when n and r are passed to function.
 #M0007: convert radians to degrees and degrees to radians.
 #M0008: return count of odd & even numbers in passed range (x,y) iteratively and efficiently.
-
-
+#M0009: function checks if passed argument is Harshad number or not.
+#M0010: function prints sum of digits of passed argument.
